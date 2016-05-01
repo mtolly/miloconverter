@@ -74,6 +74,16 @@ public class GClass10
 				return;
 			}
 		}
-		goto IL_60;
+		// goto IL_60;
+		if (this.icryptoTransform_0 != null)
+		{
+			this.int_1 = this.icryptoTransform_0.TransformBlock(this.byte_0, 0, this.int_0, this.byte_1, 0);
+		}
+		else
+		{
+			this.int_1 = this.int_0;
+		}
+		this.int_2 = this.int_1;
+		return;
 	}
 }

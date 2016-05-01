@@ -6,52 +6,52 @@ using System.Runtime.InteropServices;
 internal class Class5
 {
 	[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 2048)]
-	private struct Struct7
+	public struct Struct7
 	{
 	}
 
 	[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 56)]
-	private struct Struct8
+	public struct Struct8
 	{
 	}
 
 	[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 1024)]
-	private struct Struct9
+	public struct Struct9
 	{
 	}
 
 	[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 12)]
-	private struct Struct10
+	public struct Struct10
 	{
 	}
 
 	[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 10)]
-	private struct Struct11
+	public struct Struct11
 	{
 	}
 
 	[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 40)]
-	private struct Struct12
+	public struct Struct12
 	{
 	}
 
 	[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 76)]
-	private struct Struct13
+	public struct Struct13
 	{
 	}
 
 	[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 16)]
-	private struct Struct14
+	public struct Struct14
 	{
 	}
 
 	[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 116)]
-	private struct Struct15
+	public struct Struct15
 	{
 	}
 
 	[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 120)]
-	private struct Struct16
+	public struct Struct16
 	{
 	}
 
